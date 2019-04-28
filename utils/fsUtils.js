@@ -1,8 +1,7 @@
 'use strict';
+import RNFetchBlob from 'rn-fetch-blob'
 
 const _ = require('lodash');
-
-const RNFetchBlob = require('react-native-fetch-blob').default;
 
 const {
     fs
